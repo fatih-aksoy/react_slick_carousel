@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is [Vadi_pagination](https://vadi-carousel.netlify.app/).
+This project is [Vadi_carousel](https://vadi-carousel.netlify.app/).
 
 ## Available Scripts
 
